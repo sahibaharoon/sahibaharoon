@@ -6,8 +6,8 @@ I love combining beautiful UI/UX with powerful backend intelligence to make tool
 
 ---
 ## 🔧 I’m currently working on:
-🎓 My final year project — an AI-powered **chatbot with document summarization and file upload support**, built using **Python (Flask)**, **Together AI**, and deployed on **Render**.  
-It helps students interact with PDFs and get instant summaries and answers 📚✨.
+🎓 My final year project- “Real-Time AI Posture Correction for Powerlifting Exercises” using YOLOv5, MediaPipe, and machine learning to deliver real-time feedback and prevent workout injuries.
+.
 
 ---
 
