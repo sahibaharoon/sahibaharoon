@@ -2,7 +2,7 @@
 I am a final year Computer Science student passionate about AI, Machine Learning, and building smart, user-friendly tech experiences.
 I love combining beautiful UI/UX with powerful backend intelligence to make tools that actually help people — especially students! 🤖💬
 
-✨ I believe even tech tools should feel warm, human, and fun — that’s why you’ll find emojis, animations, and thoughtful design across my projects 💛
+✨ I believe even tech tools should feel warm, human, and fun — that’s why you’ll find random emojis, animations, and designs across my projects 💛
 
 ---
 ## 🔧 I’m currently working on:
