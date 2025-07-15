@@ -1,49 +1,45 @@
-# 💫 About Me:
-Hi! I’m **Sahiba Haroon**, a curious and creative student developer from India 🇮🇳 who loves blending **clean UI/UX** with **AI-powered functionality** 🤖💬. I enjoy building meaningful, visually appealing tools that are actually useful for students, like chatbots, PDF summarizers, document uploaders, hotel systems, and more!
+# 💫  Hi! I’m **Sahiba Haroon**
+I am a final year Computer Science student passionate about AI, Machine Learning, and building smart, user-friendly tech experiences.
+I love combining beautiful UI/UX with powerful backend intelligence to make tools that actually help people — especially students! 🤖💬
 
 ✨ I believe even tech tools should feel warm, human, and fun — that’s why you’ll find emojis, animations, and thoughtful design across my projects 💛
 
 ---
-
-## 🚀 I'm currently working on:
-- An AI-powered **PDF Chatbot** with file uploads, typing animations, and structured emoji responses 📝🤖
-- A modern **UI redesign** for student-friendly AI tools
-- Full deployment with **Render**, GitHub Pages, and cloud workflows
+## 🔧 I’m currently working on:
+🎓 My final year project — an AI-powered **chatbot with document summarization and file upload support**, built using **Python (Flask)**, **Together AI**, and deployed on **Render**.  
+It helps students interact with PDFs and get instant summaries and answers 📚✨.
 
 ---
 
 ## 🤝 I’m looking to collaborate on:
-- Anything involving **chatbots**, **frontend polish**, or **Flask + React/Streamlit**-based tools
-- Projects where I can bring in visual flair ✨ or student-first thinking 🧠
+- Open-source **AI/ML tools for education** 🧠  
+- Fun web apps using **React**, **Flask**, or **Streamlit**  
+- Creative projects where **AI meets design** (chatbots, NLP tools, etc.)  
+- Junior roles/internships in **Software Development** or **ML** 💻
 
 ---
 
-## 🧠 I’m currently learning:
-- **Model deployment & optimization**
-- **LinkedIn + GitHub branding** (yes, GPRM too!)
-- **Fun animations**, transitions, and file preview logic
+## 📚 I’m currently learning:
+- **Advanced Python** and clean Flask API design  
+- **Machine Learning** using scikit-learn and PyTorch  
+- **LLMs & Prompt Engineering** (OpenAI, Together)  
+- **Deployment tools**: Render, Vercel, GitHub Actions  
+- Strengthening my **DSA skills** for interviews 💡
 
 ---
 
 ## 🆘 I’m looking for help with:
-- Improving **performance** on free hosts (Render etc.)
-- **File size optimizations** for PDF-heavy tools
-- Advanced **Git** strategies and branching
+- Improving performance and code structure of any of my projects 
+- Getting real-world experience in ML projects  
+- Resume prep and mock interviews for SDE/ML roles
 
 ---
+## 🎉 Fun fact:
+Every project I build — whether it's a chatbot, a note-taker, or even a tiny Java app — secretly (okay not-so-secretly 😜) ends with:
+“Made with ♥️ by Sahiba Haroon”
+It's my personal signature and a little reminder that everything I code has a bit of love (and a lot of late-night debugging) in it! 💻💘
 
-## ❓ Ask me about:
-- Building friendly AI tools from scratch 🤝
-- Streamlit, Flask, or Render deployment
-- Making your chatbot say “Made with ❤️ by [You]” 😉
-
----
-
-## 🎉 Fun Fact:
-I once spent a whole day just trying to make a chat bubble "feel" right…  
-(but hey, it was **totally worth it**) 💬✨
-
----
+___
 
 ## 🌐 Connect With Me:
 
