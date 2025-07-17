@@ -7,7 +7,7 @@ ___
 		🔭 Currently working on:
 	     	🤖 Neo-Agent Chatbot – AI-powered assistant with file upload, session handling & dark mode
 	        🏋️‍♀️ PosturePerfect AI – Real-Time Posture Correction using YOLOv5 & MediaPipe
-       		🧠 DocuSummarizer – Transformer-based PDF Summarizer & Keyword Extractor with UI
+       	🧠 DocuSummarizer – Transformer-based PDF Summarizer & Keyword Extractor with UI
 		 Passionate about building smart, beautiful products that solve real user problems
  ___
 ## 🌐 Connect With Me:
