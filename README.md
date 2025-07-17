@@ -3,12 +3,12 @@
     UI/UX Explorer | Python & MERN Lover
 ___
 ## 🔍 About Me
-	•	🎓 Final-year B.Tech CSE Student at APJ Abdul Kalam Technological University
-	•	🔭 Currently working on:
-	     -	🤖 Neo-Agent Chatbot – AI-powered assistant with file upload, session handling & dark mode
-	     -  🏋️‍♀️ PosturePerfect AI – Real-Time Posture Correction using YOLOv5 & MediaPipe
-       -	🧠 DocuSummarizer – Transformer-based PDF Summarizer & Keyword Extractor with UI
-	•	 Passionate about building smart, beautiful products that solve real user problems
+		🎓 Final-year B.Tech CSE Student at APJ Abdul Kalam Technological University
+		🔭 Currently working on:
+	     	🤖 Neo-Agent Chatbot – AI-powered assistant with file upload, session handling & dark mode
+	        🏋️‍♀️ PosturePerfect AI – Real-Time Posture Correction using YOLOv5 & MediaPipe
+       		🧠 DocuSummarizer – Transformer-based PDF Summarizer & Keyword Extractor with UI
+		 Passionate about building smart, beautiful products that solve real user problems
  ___
 ## 🌐 Connect With Me:
 
