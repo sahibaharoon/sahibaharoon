@@ -1,46 +1,15 @@
 # 💫  Hi! I’m **Sahiba Haroon**
-I am a final year Computer Science student passionate about AI, Machine Learning, and building smart, user-friendly tech experiences.
-I love combining beautiful UI/UX with powerful backend intelligence to make tools that actually help people — especially students! 🤖💬
-
-✨ I believe even tech tools should feel warm, human, and fun — that’s why you’ll find random emojis, animations, and designs across my projects 💛
-
----
-## 🔧 I’m currently working on:
-🎓 My final year project- “Real-Time AI Posture Correction for Powerlifting Exercises” using YOLOv5, MediaPipe, and machine learning to deliver real-time feedback and prevent workout injuries.
-.
-
----
-
-## 🤝 I’m looking to collaborate on:
-- Open-source **AI/ML tools for education** 🧠  
-- Fun web apps using **React**, **Flask**, or **Streamlit**  
-- Creative projects where **AI meets design** (chatbots, NLP tools, etc.)  
-- Junior roles/internships in **Software Development** or **ML** 💻
-
----
-
-## 📚 I’m currently learning:
-- **Advanced Python** and clean Flask API design  
-- **Machine Learning** using scikit-learn and PyTorch  
-- **LLMs & Prompt Engineering** (OpenAI, Together)  
-- **Deployment tools**: Render, Vercel, GitHub Actions  
-- Strengthening my **DSA skills** for interviews 💡
-
----
-
-## 🆘 I’m looking for help with:
-- Improving performance and code structure of any of my projects 
-- Getting real-world experience in ML projects  
-- Resume prep and mock interviews for SDE/ML roles
-
----
-## 🎉 Fun fact:
-Every project I build — whether it's a chatbot, a note-taker, or even a tiny Java app — secretly (okay not-so-secretly 😜) ends with:
-“Made with ♥️ by Sahiba Haroon”
-It's my personal signature and a little reminder that everything I code has a bit of love (and a lot of late-night debugging) in it! 💻💘
-
+👩‍💻 Full-Stack Developer |Computer Vision Enthusiast
+    UI/UX Explorer | Python & MERN Lover
 ___
-
+## 🔍 About Me
+	•	🎓 Final-year B.Tech CSE Student at APJ Abdul Kalam Technological University
+	•	🔭 Currently working on:
+	     -	🤖 Neo-Agent Chatbot – AI-powered assistant with file upload, session handling & dark mode
+	     -  🏋️‍♀️ PosturePerfect AI – Real-Time Posture Correction using YOLOv5 & MediaPipe
+       -	🧠 DocuSummarizer – Transformer-based PDF Summarizer & Keyword Extractor with UI
+	•	 Passionate about building smart, beautiful products that solve real user problems
+ ___
 ## 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sahiba-haroon-bb6b42138)  
