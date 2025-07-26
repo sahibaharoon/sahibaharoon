@@ -1,6 +1,5 @@
 # 💫  Hi! I’m **Sahiba Haroon**
-👩‍💻 Full-Stack Developer |Computer Vision Enthusiast
-    UI/UX Explorer | Python & MERN Lover
+👩‍💻 Full-Stack Developer | UI/UX Explorer | Python & MERN Lover
 ___
 ## 🔍 About Me
 		🎓 Final-year B.Tech CSE Student at APJ Abdul Kalam Technological University
