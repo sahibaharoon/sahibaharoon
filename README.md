@@ -1,5 +1,5 @@
 # 💫  Hi! I’m **Sahiba Haroon**
-👩‍💻 Full-Stack Developer | UI/UX Explorer | Python & MERN Lover
+👩‍💻 Full-Stack Developer | UI/UX Explorer
 ___
 ## 🔍 About Me
 		🎓 Final-year B.Tech CSE Student at APJ Abdul Kalam Technological University
@@ -12,8 +12,7 @@ ___
 ## 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sahiba-haroon-bb6b42138)  
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sahibbaaa)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-db1a1a?logo=pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/sahibaharoon2)  
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sahibbaaa)   
 [![Email](https://img.shields.io/badge/Gmail-d14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sahibaharoon.mec@gmail.com)
 
 ---
